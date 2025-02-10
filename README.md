@@ -11,7 +11,7 @@ El contenido está organizado en diferentes carpetas, cada una de las cuales cor
 
 Dentro de cada una de estas carpetas se encuentran los diferentes tutoriales básicos relacionados con el lenguaje **Python**:
 
-- [***](./***): Loreipsum.
+- [Print](./01-print): Cómo mostrar texto en la pantalla.
 
 Esta lista está organizada de la mejor manera para aprender a programar en lenguaje **Python**.
 
