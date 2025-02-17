@@ -15,6 +15,7 @@ Dentro de cada una de estas carpetas se encuentran los diferentes tutoriales bá
 - [Variables](./02-variables): Creación y uso de variables.
 - [Input](./03-input): Lectura de datos del usuario.
 - [Operadores](./04-operators): Uso de operadores aritméticos y lógicos.
+- [Estructura de Control](./05-control-structure): Control del flujo del programa.
 
 Esta lista está organizada de la mejor manera para aprender a programar en lenguaje **Python**.
 
