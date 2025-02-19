@@ -17,6 +17,7 @@ Dentro de cada una de estas carpetas se encuentran los diferentes tutoriales bá
 - [Operadores](./04-operators): Uso de operadores aritméticos y lógicos.
 - [Estructura de Control](./05-control-structure): Control del flujo del programa.
 - [Bucle For](./06-for-loop): Iteración usando bucles for.
+- [Bucle While](./07-while-loop): Repetición de tareas con bucles while.
 
 Esta lista está organizada de la mejor manera para aprender a programar en lenguaje **Python**.
 
